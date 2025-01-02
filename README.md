@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Ehsan!
 
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+my+GitHub+Profile!)
 
@@ -35,21 +35,13 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ehsanfaiyazimilani)  
 
 ---
 
 ### 📬 Reach Out
 
-Feel free to drop me a message or connect via [email](mailto:your.email@example.com)! 😄
+Feel free to drop me a message or connect via [email] Ehsanfayyaz74@gmail.com! 😄
