@@ -17,12 +17,12 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B0?style=for-the-badge&logo=kotlin&logoColor=white)
 #### **Frameworks and Libraries**    
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)   
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)    
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
+  ![Ktor](https://img.shields.io/badge/-Ktor-3DDC84?style=for-the-badge&logo=ktor&logoColor=black)
 #### **Tools and Platforms**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -32,7 +32,7 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)   
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=composer&logoColor=white)  
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-
+![Gradle](https://img.shields.io/badge/-Gradle-23A2F3?style=for-the-badge&logo=gradle&logoColor=white)
 ---
 
 
