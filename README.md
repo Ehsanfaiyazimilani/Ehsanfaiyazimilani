@@ -4,10 +4,10 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **[Your Learning Topics]**.
-- 💼 I’m working on **[Your Current Role or Projects]**.
-- 🎯 Goals for 2025: **[Your Goals]**.
-- ⚡ Fun fact: **[A Fun Fact About You]**.
+- 🌱 I’m currently developing **My skills**.
+- 💼 I’m working in **Mytheresa**.
+- 🎯 Goals for 2025: **getting a position in my skills**.
+- ⚡  **Coding in silence**.
 
 ---
 
