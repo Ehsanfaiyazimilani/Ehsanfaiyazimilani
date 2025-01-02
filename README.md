@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Ehsan!
 
-(https://via.placeholder.com/1200x300?text=Ehsan+is+here!)
+![Welcome Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile!&font=bold)
+
 
 ### 🚀 About Me
 
