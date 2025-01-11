@@ -5,7 +5,6 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently developing **My skills**.
-- 💼 I’m working in **Mytheresa**.
 - 🎯 Goals for 2025: **getting a position in my skills**.
 - ⚡  **Coding in silence**.
 
