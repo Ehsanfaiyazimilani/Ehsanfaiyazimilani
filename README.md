@@ -43,4 +43,4 @@
 
 ### 📬 Reach Out
 
-Feel free to drop me a message or connect via [email] Ehsanfayyaz74@gmail.com! 😄
+Feel free to drop me a message or connect via [email] Ehsanfayyaz74@gmail.com! 😄.
