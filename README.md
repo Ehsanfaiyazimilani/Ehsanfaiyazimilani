@@ -8,7 +8,7 @@
 - 🎯 Goals for 2025: **getting a position in my skills**.
 - ⚡  **Coding in silence**.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ehsanfaiyazimilani)
+![Visitor Count](https://profile-counter.glitch.me/ehsanfaiyazimilani/count.svg)
 
 ---
 
