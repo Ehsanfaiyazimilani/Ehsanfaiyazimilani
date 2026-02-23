@@ -5,7 +5,6 @@
 I'm a passionate and disciplined backend developer focused on building efficient, scalable, and maintainable software. I enjoy solving complex problems and learning new technologies that enhance my craft.
 
 - 🌱 Currently sharpening and expanding my skill set.
-- 🎯 2025 Goal: Secure a role aligned with my technical strengths and interests.
 - ⚡ Motto: *"Coding in silence, delivering with impact."*
 
 ---
