@@ -22,7 +22,6 @@ package main
 type Developer struct {
     Name     string
     Role     string
-    Motto    string
     Focus    []string
     Learning []string
 }
@@ -31,7 +30,6 @@ func main() {
     me := Developer{
         Name:  "Ehsan FayyaziMilani",
         Role:  "Backend Developer",
-        Motto: "Coding in silence, delivering with impact.",
         Focus: []string{
             "Scalable Architecture",
             "Clean & Maintainable Code",
@@ -39,8 +37,6 @@ func main() {
         },
         Learning: []string{
             "Go (Golang)",
-            "Distributed Systems",
-            "Cloud-Native Patterns",
         },
     }
     _ = me // In progress... 🚧
@@ -60,7 +56,6 @@ func main() {
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B0?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚡ Frameworks & Runtime
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
