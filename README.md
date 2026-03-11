@@ -1,12 +1,9 @@
 <div align="center">
 
 ```
-███████╗██╗  ██╗███████╗ █████╗ ███╗   ██╗
-██╔════╝██║  ██║██╔════╝██╔══██╗████╗  ██║
-█████╗  ███████║███████╗███████║██╔██╗ ██║
-██╔══╝  ██╔══██║╚════██║██╔══██║██║╚██╗██║
-███████╗██║  ██║███████║██║  ██║██║ ╚████║
-╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0066ff&height=200&section=header&text=Ehsan%20FayyaziMilani&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Go%20%7C%20Java%20%7C%20Kotlin&descAlignY=55&descSize=18&animation=fadeIn" />
+</div>
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Clean+Code+Advocate+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
@@ -84,24 +81,6 @@ func main() {
 ![GoLand](https://img.shields.io/badge/-GoLand-000000?style=for-the-badge&logo=goland&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehsanfaiyazimilani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanfaiyazimilani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehsanfaiyazimilani&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)](https://git.io/streak-stats)
 
 </div>
 
