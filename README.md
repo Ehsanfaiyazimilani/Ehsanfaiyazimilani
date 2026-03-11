@@ -109,35 +109,6 @@ func main() {
 
 ---
 
-## 🏗️ What I'm Building
-
-```
-🔷  Backend services in Go — clean, concurrent, production-ready
-📱  Android app (Jetpack Compose) — with food scanning & subscriptions
-🔬  Exploring distributed systems & cloud-native architecture
-```
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-> *"Simplicity is the soul of efficiency."* — Austin Freeman
-
-> *"Make it work. Make it right. Make it fast."* — Kent Beck
-
-</div>
-
-```
-Every line of code is a decision.
-Every decision has consequences.
-Write code as if the next person to maintain it
-is a psychopath who knows where you live. 🗡️
-```
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -145,13 +116,6 @@ is a psychopath who knows where you live. 🗡️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehsan_FayyaziMilani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsanfaiyazimilani)
 [![Email](https://img.shields.io/badge/Email-Ehsanfayyaz74@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ehsanfayyaz74@gmail.com)
 
-<br/>
-
-```
-Open to interesting problems, collaborations, and good coffee chats. ☕
-```
-
-<br/>
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
