@@ -13,6 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Clean+Code+Advocate+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=ehsanfayyazimilani&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
