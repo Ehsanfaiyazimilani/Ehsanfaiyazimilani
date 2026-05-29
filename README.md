@@ -84,7 +84,7 @@ func main() {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehsan_FayyaziMilani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsanfaiyazimilani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehsan_FaiyaziMilani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsanfaiyazimilani)
 [![Email](https://img.shields.io/badge/Email-Ehsanfayyaz74@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ehsanfayyaz74@gmail.com)
 
 
