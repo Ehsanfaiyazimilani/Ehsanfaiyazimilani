@@ -10,42 +10,6 @@
 
 </div>
 
----
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df3c79cf287734fb2d1d55c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
-
-## 🧠 About Me
-
-```go
-package main
-
-type Developer struct {
-    Name     string
-    Role     string
-    Focus    []string
-    Learning []string
-}
-
-func main() {
-    me := Developer{
-        Name:  "Ehsan FayyaziMilani",
-        Role:  "Backend Developer",
-        Focus: []string{
-            "Scalable Architecture",
-            "Clean & Maintainable Code",
-            "Performance Optimization",
-        },
-        Learning: []string{
-            "Go (Golang)",
-        },
-    }
-    _ = me // In progress... 🚧
-}
-```
-
-<br clear="right"/>
-
----
 
 ## 🛠️ Tech Arsenal
 
