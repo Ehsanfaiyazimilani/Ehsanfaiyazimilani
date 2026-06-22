@@ -15,26 +15,26 @@
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52B0?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚡ Frameworks & Runtime
+###  Frameworks & Runtime
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-### 🧰 DevOps & Tools
+###  DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🖥️ IDEs
+### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GoLand](https://img.shields.io/badge/-GoLand-000000?style=for-the-badge&logo=goland&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
