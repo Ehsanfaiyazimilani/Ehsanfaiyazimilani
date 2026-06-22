@@ -29,7 +29,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3> Core Languages</h3>
+      <h3> Core Languages and Frameworks</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
