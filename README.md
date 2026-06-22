@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0066ff&height=200&section=header&text=Ehsan%20FayyaziMilani&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20Engineeer%20%7C%20Go%20%7C%20Java%20%7C%20Kotlin&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0066ff&height=200&section=header&text=Ehsan%20FayyaziMilani&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineeer%20%7C%20Go%20%7C%20Java%20%7C%20Kotlin&descAlignY=55&descSize=18&animation=fadeIn" />
 </div>
 
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Clean+Code+Advocate+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Clean+Code+Advocate+%E2%9C%A8;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 
 </div>
